@@ -81,11 +81,6 @@ To work on this project, you should be familiar with:
 
 ---
 
-## 🎥 Video Tutorial
-For a step-by-step guide, watch the tutorial:  
-📺 [How to Run Project](https://youtu.be/WKjimM_BlgM)
-
----
 
 ## 💡 Troubleshooting
 - Ensure all environment variables are correctly set up.
@@ -94,10 +89,6 @@ For a step-by-step guide, watch the tutorial:
 
 ---
 
-## 📬 Contact
-For any issues, contact: [Instagram](https://instagram.com/greatstackdev)  
-Explore more projects: [GreatStack](https://greatstack.dev/source-code)
 
----
 
 Save this as `README.md` in your GitHub repository, and it will be displayed as the main documentation when someone visits your repo. 🚀
